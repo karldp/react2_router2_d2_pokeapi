@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+
+/* Navbar */
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar {
+  padding: 20px;
+  color: white;
+  font-size: 1.5rem;
+}
+
+
+.active{
+  color: yellow;
+}
+
+.home-title{
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.nav-icon{
+  font-size: 2.5rem;
+  color: aliceblue;
+}
+
+.navbars{
+  display: flex;
+  gap: 2rem;
+}
+
+.not-found{
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.poke-card{
+  text-align: center;
+}
+
+.card-poke{
+  margin-bottom: 0;
+
+}
